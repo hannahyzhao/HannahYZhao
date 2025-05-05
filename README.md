@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **elevenset**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning & Computer Vision**
 
 - 👨‍💻 All of my projects are available at [https://www.hannahzhao.com/](https://www.hannahzhao.com/)
 
